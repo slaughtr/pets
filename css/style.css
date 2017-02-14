@@ -15,3 +15,8 @@ ol{
   font-size: 20px;
   font-weight: bold;
 }
+
+.dark-for-eyes {
+  color: white;
+  background-color: black;
+}
